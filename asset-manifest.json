@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/markets-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/markets-app/static/js/main.2635dcca.chunk.js",
+    "main.js.map": "/markets-app/static/js/main.2635dcca.chunk.js.map",
+    "runtime-main.js": "/markets-app/static/js/runtime-main.085ec4f5.js",
+    "runtime-main.js.map": "/markets-app/static/js/runtime-main.085ec4f5.js.map",
+    "static/js/2.4f0dee95.chunk.js": "/markets-app/static/js/2.4f0dee95.chunk.js",
+    "static/js/2.4f0dee95.chunk.js.map": "/markets-app/static/js/2.4f0dee95.chunk.js.map",
+    "static/js/3.ac202287.chunk.js": "/markets-app/static/js/3.ac202287.chunk.js",
+    "static/js/3.ac202287.chunk.js.map": "/markets-app/static/js/3.ac202287.chunk.js.map",
+    "index.html": "/markets-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/markets-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.4f0dee95.chunk.js.LICENSE.txt": "/markets-app/static/js/2.4f0dee95.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/markets-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.085ec4f5.js",
+    "static/js/2.4f0dee95.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.2635dcca.chunk.js"
+  ]
+}
