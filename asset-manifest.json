@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/markets-app/static/css/main.a617e044.chunk.css",
-    "main.js": "/markets-app/static/js/main.2635dcca.chunk.js",
-    "main.js.map": "/markets-app/static/js/main.2635dcca.chunk.js.map",
+    "main.js": "/markets-app/static/js/main.c0aa95f0.chunk.js",
+    "main.js.map": "/markets-app/static/js/main.c0aa95f0.chunk.js.map",
     "runtime-main.js": "/markets-app/static/js/runtime-main.085ec4f5.js",
     "runtime-main.js.map": "/markets-app/static/js/runtime-main.085ec4f5.js.map",
     "static/js/2.4f0dee95.chunk.js": "/markets-app/static/js/2.4f0dee95.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.085ec4f5.js",
     "static/js/2.4f0dee95.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.2635dcca.chunk.js"
+    "static/js/main.c0aa95f0.chunk.js"
   ]
 }
